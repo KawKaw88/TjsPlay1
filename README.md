@@ -9,11 +9,11 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 
 
-# This is an <h1> tag
+# This is an h1 tag
 
-## This is an <h2> tag
+## This is an h2 tag
 
-### This is an <h3> tag
+### This is an h3 tag
 
 7-10-2018 12:34pm made change
 
